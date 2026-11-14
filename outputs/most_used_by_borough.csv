@@ -1,0 +1,7 @@
+pickup_borough,most_used_type,trips,total_trips_in_borough,share_percent
+Bronx,High Volume FHV,14885311,15082281,98.69
+Brooklyn,High Volume FHV,31914106,32700258,97.6
+EWR,FHV,4789,7344,65.21
+Manhattan,High Volume FHV,47460846,66094198,71.81
+Queens,High Volume FHV,24847158,27254079,91.17
+Staten Island,High Volume FHV,1752476,2061312,85.02

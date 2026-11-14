@@ -1,0 +1,252 @@
+{
+  "yellow_tripdata_2024-01.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-01",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 49961641,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "yellow_tripdata_2024-02.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-02",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-02.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 50349284,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "yellow_tripdata_2024-03.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-03",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-03.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 60078280,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "yellow_tripdata_2024-04.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-04",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-04.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 59133625,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "yellow_tripdata_2024-05.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-05",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-05.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 62553128,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "yellow_tripdata_2024-06.parquet": {
+    "taxi_type": "Yellow",
+    "month": "2024-06",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-06.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 59859922,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-01.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-01",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-01.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1362284,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-02.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-02",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-02.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1283805,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-03.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-03",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-03.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1372372,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-04.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-04",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-04.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1346502,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-05.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-05",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-05.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1453912,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "green_tripdata_2024-06.parquet": {
+    "taxi_type": "Green",
+    "month": "2024-06",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-06.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 1326194,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-01.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-01",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-01.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 15023585,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-02.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-02",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-02.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 13608941,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-03.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-03",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-03.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 16743352,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-04.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-04",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-04.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 16515459,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-05.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-05",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-05.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 15958984,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhv_tripdata_2024-06.parquet": {
+    "taxi_type": "FHV",
+    "month": "2024-06",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2024-06.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 16029924,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-01.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-01",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-01.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 472757547,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-02.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-02",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-02.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 462475428,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-03.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-03",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-03.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 507940560,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-04.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-04",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-04.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 476115643,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-05.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-05",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-05.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 498575918,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "fhvhv_tripdata_2024-06.parquet": {
+    "taxi_type": "High Volume FHV",
+    "month": "2024-06",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-06.parquet",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 484417715,
+    "checked_at": "2026-11-14T13:19:28"
+  },
+  "taxi_zone_lookup.csv": {
+    "taxi_type": "reference",
+    "month": null,
+    "format": "csv",
+    "url": "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv",
+    "status": "skipped_exists",
+    "error": null,
+    "size_bytes": 12331,
+    "checked_at": "2026-11-14T13:19:28"
+  }
+}

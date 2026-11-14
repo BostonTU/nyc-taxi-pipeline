@@ -1,0 +1,5 @@
+taxi_type,baseline_rows,curated_trips,excluded,excluded_pct
+Yellow,20332093,20331754,339,0.0017
+Green,339807,339801,6,0.0018
+FHV,8119228,8119228,0,0.0
+High Volume FHV,120864668,120864668,0,0.0

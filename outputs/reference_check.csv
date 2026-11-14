@@ -1,0 +1,2 @@
+file,rows,unique_location_ids,null_borough,status
+taxi_zone_lookup.csv,265,265,0,PASS

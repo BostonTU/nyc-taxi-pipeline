@@ -1,0 +1,33 @@
+taxi_type,pickup_borough,trips,share_within_type_percent
+FHV,Missing zone,6359783,78.33
+FHV,Queens,488769,6.02
+FHV,Brooklyn,484754,5.97
+FHV,Manhattan,325943,4.01
+FHV,Staten Island,308143,3.8
+FHV,Bronx,133286,1.64
+FHV,N/A,13711,0.17
+FHV,EWR,4789,0.06
+FHV,Unknown,50,0.0
+Green,Manhattan,199250,58.64
+Green,Queens,86916,25.58
+Green,Brooklyn,47853,14.08
+Green,Bronx,4826,1.42
+Green,Unknown,692,0.2
+Green,N/A,233,0.07
+Green,Staten Island,19,0.01
+Green,EWR,12,0.0
+High Volume FHV,Manhattan,47460846,39.27
+High Volume FHV,Brooklyn,31914106,26.4
+High Volume FHV,Queens,24847158,20.56
+High Volume FHV,Bronx,14885311,12.32
+High Volume FHV,Staten Island,1752476,1.45
+High Volume FHV,N/A,4767,0.0
+High Volume FHV,EWR,4,0.0
+Yellow,Manhattan,18108159,89.06
+Yellow,Queens,1831236,9.01
+Yellow,Brooklyn,253545,1.25
+Yellow,Unknown,65678,0.32
+Yellow,Bronx,58858,0.29
+Yellow,N/A,11065,0.05
+Yellow,EWR,2539,0.01
+Yellow,Staten Island,674,0.0

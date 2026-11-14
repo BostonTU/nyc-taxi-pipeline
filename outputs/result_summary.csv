@@ -1,0 +1,7 @@
+definition,rank,taxi_type,trips,share_percent
+all_tlc_services,1,High Volume FHV,120864668,80.76
+all_tlc_services,2,Yellow,20331754,13.59
+all_tlc_services,3,FHV,8119228,5.43
+all_tlc_services,4,Green,339801,0.23
+street_taxis_only,1,Yellow,20331754,98.36
+street_taxis_only,2,Green,339801,1.64

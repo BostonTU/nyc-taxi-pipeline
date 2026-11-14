@@ -1,0 +1,48 @@
+{
+  "all_tlc_services": {
+    "winner": "High Volume FHV",
+    "ranking": [
+      {
+        "rank": 1,
+        "taxi_type": "High Volume FHV",
+        "trips": 120864668,
+        "share_percent": 80.76
+      },
+      {
+        "rank": 2,
+        "taxi_type": "Yellow",
+        "trips": 20331754,
+        "share_percent": 13.59
+      },
+      {
+        "rank": 3,
+        "taxi_type": "FHV",
+        "trips": 8119228,
+        "share_percent": 5.43
+      },
+      {
+        "rank": 4,
+        "taxi_type": "Green",
+        "trips": 339801,
+        "share_percent": 0.23
+      }
+    ]
+  },
+  "street_taxis_only": {
+    "winner": "Yellow",
+    "ranking": [
+      {
+        "rank": 1,
+        "taxi_type": "Yellow",
+        "trips": 20331754,
+        "share_percent": 98.36
+      },
+      {
+        "rank": 2,
+        "taxi_type": "Green",
+        "trips": 339801,
+        "share_percent": 1.64
+      }
+    ]
+  }
+}

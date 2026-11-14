@@ -1,0 +1,53 @@
+# แก้ period แล้วรัน `python run_pipeline.py` ซ้ำ = อัปเดตข้อมูลใหม่ (ประมวลผลเฉพาะไฟล์ที่ยังไม่เคยทำ)
+period:
+  start_month: "2024-01"
+  end_month: "2024-06"
+
+base_url: "https://d37ci6vzurychx.cloudfront.net/trip-data"
+
+taxi_types:
+  Yellow:
+    prefix: yellow_tripdata
+    pickup: tpep_pickup_datetime
+    dropoff: tpep_dropoff_datetime
+    pickup_zone: PULocationID
+  Green:
+    prefix: green_tripdata
+    pickup: lpep_pickup_datetime
+    dropoff: lpep_dropoff_datetime
+    pickup_zone: PULocationID
+  FHV:
+    prefix: fhv_tripdata
+    pickup: pickup_datetime
+    dropoff: dropOff_datetime
+    pickup_zone: PUlocationID
+  High Volume FHV:
+    prefix: fhvhv_tripdata
+    pickup: pickup_datetime
+    dropoff: dropoff_datetime
+    pickup_zone: PULocationID
+
+# ข้อมูลอ้างอิงรูปแบบ CSV (ต่างจากไฟล์เที่ยวที่เป็น Parquet) ใช้ join รหัสโซนรับผู้โดยสาร -> เขต (borough)
+reference:
+  zone_lookup:
+    url: "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv"
+    filename: taxi_zone_lookup.csv
+
+# นิยามคำว่า "taxi" ที่นำมาเปรียบเทียบ
+definitions:
+  all_tlc_services: [Yellow, Green, FHV, High Volume FHV]
+  street_taxis_only: [Yellow, Green]
+
+paths:
+  raw_dir: data/raw
+  reference_dir: data/reference
+  curated_dir: data/curated
+  state_dir: data/state
+  sample_dir: data/sample
+  outputs_dir: outputs
+
+sample_rows_per_file: 1000
+
+quality:
+  warn_excluded_pct: 2    # แถวที่ถูกตัดเกินเท่านี้ -> WARN
+  fail_excluded_pct: 20   # เกินเท่านี้ -> FAIL (pipeline หยุด)

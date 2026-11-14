@@ -1,0 +1,25 @@
+file,taxi_type,exists,pickup_ok,dropoff_ok,pickup_zone_ok,n_columns
+yellow_tripdata_2024-01.parquet,Yellow,True,True,True,True,19
+yellow_tripdata_2024-02.parquet,Yellow,True,True,True,True,19
+yellow_tripdata_2024-03.parquet,Yellow,True,True,True,True,19
+yellow_tripdata_2024-04.parquet,Yellow,True,True,True,True,19
+yellow_tripdata_2024-05.parquet,Yellow,True,True,True,True,19
+yellow_tripdata_2024-06.parquet,Yellow,True,True,True,True,19
+green_tripdata_2024-01.parquet,Green,True,True,True,True,20
+green_tripdata_2024-02.parquet,Green,True,True,True,True,20
+green_tripdata_2024-03.parquet,Green,True,True,True,True,20
+green_tripdata_2024-04.parquet,Green,True,True,True,True,20
+green_tripdata_2024-05.parquet,Green,True,True,True,True,20
+green_tripdata_2024-06.parquet,Green,True,True,True,True,20
+fhv_tripdata_2024-01.parquet,FHV,True,True,True,True,7
+fhv_tripdata_2024-02.parquet,FHV,True,True,True,True,7
+fhv_tripdata_2024-03.parquet,FHV,True,True,True,True,7
+fhv_tripdata_2024-04.parquet,FHV,True,True,True,True,7
+fhv_tripdata_2024-05.parquet,FHV,True,True,True,True,7
+fhv_tripdata_2024-06.parquet,FHV,True,True,True,True,7
+fhvhv_tripdata_2024-01.parquet,High Volume FHV,True,True,True,True,24
+fhvhv_tripdata_2024-02.parquet,High Volume FHV,True,True,True,True,24
+fhvhv_tripdata_2024-03.parquet,High Volume FHV,True,True,True,True,24
+fhvhv_tripdata_2024-04.parquet,High Volume FHV,True,True,True,True,24
+fhvhv_tripdata_2024-05.parquet,High Volume FHV,True,True,True,True,24
+fhvhv_tripdata_2024-06.parquet,High Volume FHV,True,True,True,True,24
